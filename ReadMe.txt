@@ -36,3 +36,9 @@ For heroku
 
 
 https://steelcity-weather-application.herokuapp.com/ 
+
+To make changes to the app
+1.. Once changes are made use git status to see them
+2.. Then use git add . to add them
+3.. Then use git push to push them to github
+4.. Then use git push heroku main to push to heroku, wait 30 seconds and refresh the webpage
